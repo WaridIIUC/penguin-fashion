@@ -1,0 +1,61 @@
+
+.navbar img{
+   width: 70%;
+}
+
+.heading-text{
+    font-family: 'Bebas Neue', cursive;
+}
+#h1-top{  
+    font-size: 80px;
+    color: #363958;
+}
+.orange-highlight{
+    color: #FABE4C;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
+
+button{
+    width: 150px;
+    height: 55px;
+    background-color: #A4BC46;
+    border-radius: 0.5em;
+    border: none;
+    color: white;
+    font-family: 'Roboto', sans-serif;   
+}
+
+.fa-shopping-cart{
+    margin-right:4%;
+}
+
+#top-banner-img{
+    width: 100%;
+/*     
+    top: -50px;
+    position: relative; */
+}
+
+h2{
+    font-size: 48px;
+    color: #363958;
+    
+}
+
+
+.card-img-top{
+    background-color: #F1F1F1;;
+    width: 203px;
+    height: 273px;
+    margin: 4% 8%;
+}
+
+.card-img-div{
+    margin: 6% 6% 0 6%;
+    background-color: #F1F1F1;
+    border-radius: 14px;
+}
+
