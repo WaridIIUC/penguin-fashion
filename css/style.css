@@ -1,8 +1,14 @@
 
-.navbar img{
-   width: 70%;
+/* .navbar img{
+   width: 100%;
 }
-
+.navbar-brand{
+    width: 74%;
+} */
+.navbar-toggler{
+    width: 18%;
+    height: 10%;
+}
 .heading-text{
     font-family: 'Bebas Neue', cursive;
 }
@@ -58,4 +64,7 @@ h2{
     background-color: #F1F1F1;
     border-radius: 14px;
 }
-
+/* 
+.store{
+    border-radius: 15px;  
+} */
