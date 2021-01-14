@@ -92,3 +92,7 @@ main .container{
         position: relative;
     }
 }
+.carousel-inner > .item > img {
+    margin: 0 auto;
+  }
+
